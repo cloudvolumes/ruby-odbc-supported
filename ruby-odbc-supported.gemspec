@@ -2,7 +2,7 @@ require 'date'
 
 spec = Gem::Specification.new do |s|
   s.name        = "ruby-odbc-supported"
-  s.version     = "1.0.0"
+  s.version     = "1.0.1"
   s.date        = Date.today.to_s
 
   s.summary     = "Ruby ODBC bindings with extended support for Ruby 3.2–3.4"
