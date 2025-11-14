@@ -1,5 +1,8 @@
 ODBC binding for Ruby
 ---------------------
+Fri Nov 14 2025 version 1.0.1 release <jyothu.kr@gmail.com>
+	* Revised ruby-odbc-supported.gemspec to add homepage details
+	* Updated the gem version to 1.0.1.
 
 Fri Nov 14 2025 version 1.0.0 release <jyothu.kr@gmail.com>
 	* Renamed the gem from ruby-odbc to ruby-odbc-supported.
