@@ -1,5 +1,10 @@
 ODBC binding for Ruby
 ---------------------
+
+Fri Nov 14 2025 version 1.0.0 release <jyothu.kr@gmail.com>
+	* Renamed the gem from ruby-odbc to ruby-odbc-supported.
+	* Updated the gem version to 1.0.0.
+
 Thu Jun 27 2024 version 0.103.cv release <pandeyam@vmware.com>
 	* Argument data type fix to support Ruby 3.3 by replacing NULL with 0 in method rb_funcall
 	* Include ruby/thread.h to implicitly declare rb_thread_call_without_gvl
