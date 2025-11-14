@@ -8,7 +8,7 @@ spec = Gem::Specification.new do |s|
   s.summary = "ODBC binding for Ruby"
   s.homepage = "http://www.ch-werner.de/rubyodbc"
   s.files = Dir.glob("**/*")
-  s.require_paths << 'lib'
+  s.require_paths = ["lib"]
   s.test_files = Dir.glob('tests/*.rb')
   s.has_rdoc = false
   s.extra_rdoc_files = ["README.rdoc", "COPYING", "ChangeLog", "GPL", "doc/odbc.html"]
